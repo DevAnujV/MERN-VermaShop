@@ -1,14 +1,11 @@
 # Vermahub eCommerce Platform
+This app is created with MERN technology. 
+M- MongoDB
+E- Express.js
+R - React
+N - Node.js
 
-> eCommerce platform built with the MERN stack & Redux.
-
-- [Features](#features)
-- [Usage](#usage)
-  - [Env Variables](#env-variables)
-  - [Install Dependencies (frontend & backend)](#install-dependencies-frontend--backend)
-  - [Run](#run)
-- [Build & Deploy](#build--deploy)
-  - [Seed Database](#seed-database)
+Other technologies and npm packages were also used like - bcrypt, redux toolkit, dotenv, etc
 
 ## Features
 
@@ -37,6 +34,5 @@ avni@email.com (Customer)
 bagga@email.com (Customer)
 123456
 
-```
-
-```
+# Website Link - https://vermashop.onrender.com/
+# Copyright - Anuj Verma 2023
