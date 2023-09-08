@@ -26,13 +26,12 @@ Other technologies and npm packages were also used like - bcrypt, redux toolkit,
 Sample User Logins
 
 anuj@email.com (Admin)
-123456
 
 avni@email.com (Customer)
-123456
+Pass - 123456
 
 bagga@email.com (Customer)
-123456
+Pass - 123456
 
 # Website Link - https://vermashop.onrender.com/
 # Copyright - Anuj Verma 2023
